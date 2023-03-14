@@ -1,0 +1,28 @@
+.card{
+   
+    height: 500px;
+    background-color: rgb(7, 7, 70);
+    border-radius: 25px;
+    width: 50%;
+}
+.image_card{
+    height: 300px;
+   
+}
+.userName{
+    text-align: center;
+}
+.back_btn{
+    width: 150px;
+    
+    
+}
+.sub_btn{
+   width: 150px; 
+}
+.btn_div{
+    width: 150px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
